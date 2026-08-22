@@ -5,7 +5,7 @@ Landing page modern dan responsif untuk brand **"Sincere"** (fiktif). Proyek ini
 ## Struktur Proyek
 
 ```text
-nama-repositori/
+Landing-Page/
 │
 ├── index.html              # File utama HTML (struktur halaman)
 ├── style.css               # File CSS (gaya dan layout)
@@ -24,7 +24,7 @@ nama-repositori/
 | **Contact** | Form kontak (nama & email) dengan tombol submit |
 | **Footer** | Logo, email kontak, copyright |
 
-## Desain
+## Design
 
 - **Font:** Space Grotesk (heading), Work Sans (body), IBM Plex Mono (label/eyebrow)
 - **Warna:** dikontrol lewat CSS variable di `:root` (`--color-primary`, `--color-accent`, dll) sehingga mudah untuk diganti tanpa perlu mencari-cari di seluruh file
@@ -35,7 +35,7 @@ nama-repositori/
 1. Download/clone kedua file (`index.html` & `style.css`), taruh di folder yang sama.
 2. Buka `index.html` langsung di browser (double-click), atau pakai **Live Server** extension di VS Code untuk auto-reload saat edit.
 
-## Kustomisasi Cepat
+## Customization Cepat
 
 Ganti warna tema di bagian paling atas `style.css`:
 ```css
