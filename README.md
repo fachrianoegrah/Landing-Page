@@ -9,8 +9,8 @@ nama-repositori/
 │
 ├── index.html              # File utama HTML (struktur halaman)
 ├── style.css               # File CSS (gaya dan layout)
-├── assets/                 # Folder untuk gambar (opsional)
-│   └── screenshot.png      # Screenshot untuk README
+├── Assets/                 # Folder untuk gambar (opsional)
+│   └── screenshots.png     # Screenshot untuk README
 └── README.md               # Dokumentasi ini
 ```
 
